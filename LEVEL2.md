@@ -1,4 +1,4 @@
-# Level 2 회고 - 초안
+# Level 2 회고 - 최종본
 
 ## # { defaultMindset: ‘I don’t know’ }
 ### ## 30%
